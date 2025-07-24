@@ -7,4 +7,4 @@ Master, Tsinghua University
 
 Supervisor: Xiao-Ping Zhang
 
-Undergrad, Harbin Institue of Technology, Shenzhen
+Undergraduate, Harbin Institue of Technology, Shenzhen
